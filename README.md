@@ -21,7 +21,7 @@ The output is here.
 
 I put a video to test the performance of my network comparing to CPM.
 
-Input video is consisted with 30 frame size. 1st~13rd frames are not applied abstacle, and 14th~30th frames are applied abstacle.
+Input video is consisted with 30 frame size. 1st"~"13rd frames are not applied abstacle, and 14th"~"30th frames are applied abstacle.
 
 I'll compare performance by 15th frame images(abstacle image)
 
