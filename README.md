@@ -36,3 +36,5 @@ But, the output(e) is clear comparing to (d) and it is almost same comparing to 
 Because, CPM can detect skeleton data in one images, not determining previous image.
 If the network determines previous image, network can detect human body skeleton data.
 
+-------------------------------------------------------------------------------------------
+#file description
