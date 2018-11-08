@@ -38,7 +38,7 @@ If the network determines previous image, network can detect human body skeleton
 
 -------------------------------------------------------------------------------------------
 # file description
-this file is for inspecting the training data. If youtube data is put in CPM to make annotation data, there are some unnormal case, So I make Data_Inspection.ipynb to inspect dataset.
+This file is for inspecting the training data. If youtube data is put in CPM to make annotation data, there are some unnormal case, So I make Data_Inspection.ipynb to inspect dataset.
 1. Data_Inspection.ipynb
 
 
@@ -55,4 +55,11 @@ Secondly, I made Recurrent network which is handlign video input, and I made sev
 6. Demo_RNN.ipynb
 7. Training_rnn_network.ipynb
 8. Training_rnn_network_3d.ipynb
+
+
+Thirdly, I made annotation data in Youtube data and MPII dataset.
+
+9. Make_Annotation_From_Image.ipynb
+10. Make_Annotation_From_Video.ipynb
+11. make_video_60_frame.ipynb
 
