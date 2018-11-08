@@ -4,3 +4,10 @@ This project is for detecting human body in any situation. I planned this projec
 
 ![abstacle image2](/images/15.jpg)
 ![abstacle image3](/images/0.jpg)
+
+These above images are human images who is dancing with white rectangular abstacle.(opencv rectangular)
+
+When this image is put in CPM Network, the output is not correct because CPM only can detect human body on one image.
+
+So, I suggest network that has recurrent shape.
+
