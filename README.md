@@ -38,7 +38,8 @@ If the network determines previous image, network can detect human body skeleton
 
 -------------------------------------------------------------------------------------------
 # file description
-1. Data_Inspection.ipynb -> this file is for inspecting the training data. If youtube data is put in CPM to make annotation data, there are some unnormal case, So I make Data_Inspection.ipynb to inspect dataset.
+this file is for inspecting the training data. If youtube data is put in CPM to make annotation data, there are some unnormal case, So I make Data_Inspection.ipynb to inspect dataset.
+1. Data_Inspection.ipynb
 
 
 Firstly, I made CMU network which is handling image input. and I made several demo files to detect when putting image and video.
