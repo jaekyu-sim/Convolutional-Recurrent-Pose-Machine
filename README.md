@@ -37,16 +37,20 @@ Because, CPM can detect skeleton data in one images, not determining previous im
 If the network determines previous image, network can detect human body skeleton data.
 
 -------------------------------------------------------------------------------------------
-#file description
+# file description
 1. Data_Inspection.ipynb -> this file is for inspecting the training data. If youtube data is put in CPM to make annotation data, there are some unnormal case, So I make Data_Inspection.ipynb to inspect dataset.
 
+
 Firstly, I made CMU network which is handling image input. and I made several demo files to detect when putting image and video.
+
 2. Demo_CMU_Network.ipynb
 3. Demo_CMU_Network_CAM&VIDEO.ipynb
 4. Training_CMU.ipynb
 5. Training_CMU_30.ipynb
 
+
 Secondly, I made Recurrent network which is handlign video input, and I made several demo files to detect when putting video.
+
 6. Demo_RNN.ipynb
 7. Training_rnn_network.ipynb
 8. Training_rnn_network_3d.ipynb
