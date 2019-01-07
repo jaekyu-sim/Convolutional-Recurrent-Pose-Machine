@@ -23,17 +23,17 @@ I put a video to test the performance of my network comparing to CPM.
 
 Input video is consisted with 30 frame size. 1st\~13rd frames are not applied abstacle, and 14th\~30th frames are applied abstacle.
 
-I'll compare performance by 15th frame images(abstacle image)
+I'll compare performance by 15th frame images(abstacle image).
 
-the (a) is images which doesn't apply any abstacle.
-I put (a) to CPM, and I got (b)
-the output(b) is very clear.
+The (a) is images which doesn't apply any abstacle.
+I put (a) to CPM, and I got (b).
+The output(b) is very clear.
 
 the (c) is images which apply abstacle to head.
 I put (c) to CPM, and I got (d).
 
 The output(d) is not clear comparing to (b). There is ambigous head joint. 
-But, the output(e) is clear comparing to (d) and it is almost same comparing to (b)
+But, the output(e) is clear comparing to (d) and it is almost same comparing to (b).
 Because, CPM can detect skeleton data in one images, not determining previous image.
 If the network determines previous image, network can detect human body skeleton data.
 
