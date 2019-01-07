@@ -29,7 +29,7 @@ The (a) is images which doesn't apply any abstacle.
 I put (a) to CPM, and I got (b).
 The output(b) is very clear.
 
-the (c) is images which apply abstacle to head.
+The (c) is images which apply abstacle to head.
 I put (c) to CPM, and I got (d).
 
 The output(d) is not clear comparing to (b). There is ambigous head joint. 
