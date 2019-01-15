@@ -10,6 +10,7 @@ These above images are human images who is dancing with white rectangular abstac
 When this image is put in CPM Network, the output is not correct because CPM only can detect human body on one image.
 
 So, I suggest network that has recurrent shape.
+[paper is here!](../paper/KRoC-Convolutional_Recurrent_Pose_Machine.pdf)
 
 ![network](/images/network.PNG)
 
